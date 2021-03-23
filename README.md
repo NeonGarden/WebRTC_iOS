@@ -30,7 +30,7 @@ pod install
 a webrtc for server  project
 [webrtcServer](https://github.com/NeonGarden/webrtcServer/tree/main)
 
-## Webrtc iOS Project
+## Webrtc Web Project
 a webrtc for web project
 [webrtc_Web](https://github.com/NeonGarden/webrtc_Web)
 ## Contact
